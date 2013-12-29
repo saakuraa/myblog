@@ -11,8 +11,8 @@ end
 
 desc 'Build site with Jekyll'
 task :generate => [:clean] do
-# task :generate => [:clean, :scss] do
-  `jekyll`
+# task :generate => [:clean, :scss] do 
+  `jekyll build`
 end
 
 # desc 'Generate css'
