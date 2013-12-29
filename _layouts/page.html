@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main class="content" role="main">
+	<article class="post-template">
+    <article class="post">
+		
+	    {% if page.title %}
+	    <section class="title">
+	      <h2>{{ page.title }} </h2>
+	    </section>
+	    {% endif %}
+
+        <section class="post-content">
+            {{content}}
+        </section>
+
+    </article>
+</article>
+
+</main>
