@@ -19,7 +19,7 @@ I have a sina weibo(Chinese twitter) account and twitter randomly starting from 
 I've been long trying to get myself a clean and descend blog because I don't want it to be painful looking at my blog even before reading anything.. I use to blog a little on wordpress with what they provided. I'm pretty tired of the theme since I can always find quite a lot similar sites with the same style.. I know I was not a good blogger.. but I'll try to be a good one here;)
 
 Early this year I found [Jekyll](http://jekyllrb.com/) and was quite satisfied with what it provides;) but I didn't have too much time for it until the winter break(also because I'm lazy..)  
-So basically, Jekyll defines some kind of grammar and file structure such that you can [blog like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)! sounds pretty cool, doesn't it?;) So I choose Jekyll as back-end support. For the front-end, the theme, I check quite a lot of them available online and found these two pretty handy, first is [rusty shutter](http://lhzhang.com/) and second is [kasper](https://github.com/rosario/kasper). So I combined them and got what you see here^_^
+So basically, Jekyll defines some kind of grammar and file structure such that you can [blog like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)! sounds pretty cool, doesn't it?;) So I choose Jekyll as back-end support. For the front-end, the theme, I check quite a lot of them available online and found these two pretty handy, first is [rusty shutter](http://lhzhang.com/) and second is [kasper](https://github.com/rosario/kasper). So I combined them and got what you can see here^_^
 
 ####what can you expect here
 - things I enjoy doing.. 
