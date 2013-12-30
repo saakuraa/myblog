@@ -6,7 +6,7 @@ tags:
   - misc
 ---
 
-Well, at this very beginning, I think I should write down something more about this blog, both to give you a sense of what's going on here and more importantly;) to give myself a reminder about why and how I start it and also what should I put here. 
+Well, at this very beginning, I think I should write down something more about this blog, both to give you a sense of what's going on here and more importantly;) to give myself a reminder about why I start it, how I build it and what should I put here. 
 
 ####why I start it?
 - I know I keep forgetting things..  
