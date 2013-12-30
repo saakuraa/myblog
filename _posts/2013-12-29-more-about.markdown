@@ -6,4 +6,4 @@ tags:
   - misc
 ---
 
-I've been long trying to get myself a blog, a clean and descend one. 
+>I've been long trying to get myself a blog, a clean and descend one. 
