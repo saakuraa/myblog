@@ -2,8 +2,8 @@ name: Be With You
 description: 在没有人看得到你的时候
 author: Wenjie Luo
 url: http://wenjie-luo.com
-# timezone: 'America/Chicago'
-timezone: 'Asia/Shanghai'
+timezone: 'America/Chicago'
+# timezone: 'Asia/Shanghai'
 
 markdown: redcarpet
 pygments: true
