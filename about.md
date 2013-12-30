@@ -12,3 +12,4 @@ layout: page
 
 	Personal mumbo jumbo only..			
 	though you might find something interesting;)
+####[More about](/2013/12/29/more-about.html)
