@@ -332,7 +332,7 @@ margin on the iframe, cause it breaks stuff. */
     background: #F7FAFB;
 }
 .site-header-inner {
-/*	width: 80%;*/
+	width: 80%;
     position: relative;
     max-width: 700px;
     margin: 0 auto -0.5em;
