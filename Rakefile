@@ -31,7 +31,7 @@ task :deploy, [:comment] => :generate do |t, args|
   if args.comment then
     `git commit . -m '#{args.comment}' && git push -u origin gh-pages`
   else
-    `git commit . -m 'new deployment' && git push`
+    `git commit . -m 'new deployment' && git push -u origin gh-pages`
   end
 end
 
