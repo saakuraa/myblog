@@ -1,7 +1,8 @@
 ---
 title: more about
 layout: post
-guid: urn:uuid:b23fa65f-7519-4ba1-bab2-c5b65b47893c
+guid: urn:uuid:cc0754a2-a429-4af3-86ff-a749a743a616
+date: 2013-12-29 22:12:19 -0600
 tags:
   - misc
 ---
@@ -11,7 +12,7 @@ Well, at this very beginning, I think I should write down something more about t
 ####why I start it?
 - I know I keep forgetting things..  
 I enjoy quite a lot of things, sports like soccer, table tennis, badminton(since I was around 7 years old?), cycling, skiing(after I came to US) and more general things like traveling, photography. I do enjoy the time doing those things, so I wanna use this blog to fight against my amnesia:)    
-What else can i forget? oh random thoughts.. they just jump into my head and disappear randomly, but some do worth taking a note of. Sometimes I even find my dream interesting and fortunately I still remember it when I wake up.. for example like [this one](/2013/12/29/gotadream.html).
+What else can i forget? oh random thoughts.. they just jump into my head and disappear randomly, but some do worth taking a note of. Sometimes I even find my dream interesting and fortunately I still remember it when I wake up.. for example like [this one](/2013/12/29/got-a-dream.html).
 - Keeping track of life  
 I have a sina weibo(Chinese twitter) account and twitter randomly starting from two years ago(?) The other day, I felt bored.. and read them altogether(just a few hundreds short msgs), it was fun;) but the shortcoming of weibo is the words limit for each twitter(around 100 words?) It's not enough for me sometimes.. am I garrulous?:) so I guess a blog might be better. Another problem is more and more followers know who I am.. while I prefer being some kind of invisible people.. like people doing a great work without anybody else's notice, like batman, spider man(?) but I guess my definition of great work might be different from theirs;) Yup, you never know great people are around you being like normal guys, you are protected;)
 
@@ -32,3 +33,4 @@ The language: actually I'm not sure what should be the prime language for this s
 ####more about me again?
 ok, as you can easily infer, my name is Wenjie Luo.. I'm currently a graduate student in a PhD program. I guess that's enough for introduction(?).. don't waste your time google-ing me, you know, ```curiosity kills the cat```. But if you are just too curies to fall asleep at night, you can drop me an email..
  
+
