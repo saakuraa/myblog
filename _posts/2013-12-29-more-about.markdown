@@ -28,9 +28,5 @@ So basically, Jekyll defines some kind of grammar and file structure such that y
 I'm also trying to build(or purchase) a gallery site for photos.. you can find an icon on top-right of this page. Basically I'm not going to copy/paste content from other places but I'll share the link if I find it interesting;)
 
 ####more about me again?
-ok, as you can easily infer, my name is Wenjie Luo.. I'm currently a graduate student in a PhD program. I guess that's enough for introduction(?).. don't waste your time google-ing me, you know,
-```
-curiosity kills the cat
-```
-But if you are just too curies to fall asleep at night, you can drop me an email..
+ok, as you can easily infer, my name is Wenjie Luo.. I'm currently a graduate student in a PhD program. I guess that's enough for introduction(?).. don't waste your time google-ing me, you know, ```curiosity kills the cat```. But if you are just too curies to fall asleep at night, you can drop me an email..
  
