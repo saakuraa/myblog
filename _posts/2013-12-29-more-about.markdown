@@ -31,5 +31,5 @@ ok, as you can easily infer, my name is Wenjie Luo.. I'm currently a graduate st
 ```
 curiosity kills the cat
 ```
-But if you are just too curies to fall sleep at night.. you can drop me an email..
+But if you are just too curies to fall asleep at night.. you can drop me an email..
  
