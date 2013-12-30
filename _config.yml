@@ -8,7 +8,7 @@ markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:day/:title.html
 # logo: /assets/images/profile.png
-paginate: 3
+paginate: 4
 
 disqus: "wenjieblog"
 
