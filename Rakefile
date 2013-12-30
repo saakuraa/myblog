@@ -29,7 +29,7 @@ end
 desc 'Deploy with rake "depoly[comment]"'
 task :deploy, [:comment] => :generate do |t, args|
   if args.comment then
-    `git commit . -m '#{args.comment}' && git push`
+    `git commit . -m '#{args.comment}' && git push -u origin gh-pages`
   else
     `git commit . -m 'new deployment' && git push`
   end
