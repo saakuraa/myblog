@@ -31,4 +31,4 @@ I'm also trying to build(or purchase) a gallery site for photos.. you can find a
 The language: actually I'm not sure what should be the prime language for this site.. My currently plan is both Chinese and English.. but I'm not going to mix them in a single post.
 
 ####more about me again?
-ok, as you can easily infer, my name is Wenjie Luo.. I'm currently a graduate student in a PhD program. I guess that's enough for introduction(?).. don't waste your time google-ing me, you know, ```curiosity kills the cat```. But if you are just too curies to fall asleep at night, you can drop me an email..
+ok, as you can easily infer, my name is Wenjie Luo.. I'm currently a graduate student in a PhD program. I guess that's enough for introduction(?).. don't waste your time google-ing me, you know, ```curiosity kills the cat```. But if you are just too curies to fall asleep at night, you can <a href="mailto:twelvemoon@gmail.com">drop me an email</a>..
