@@ -42,6 +42,7 @@ end
 
 def new_post(title)
   time = Time.now
+  mydate = time.strftime("%Y-%m-%d %H:%M:%S")
   filename = "_posts/" + time.strftime("%Y-%m-%d-") + title + '.markdown'
   if File.exists? filename then
     puts "Post already exists: #{filename}"
@@ -54,7 +55,7 @@ def new_post(title)
 title: #{title}
 layout: post
 guid: urn:uuid:#{uuid}
-date: #{time}
+date: #{mydate}
 tags:
   - 
 ---
