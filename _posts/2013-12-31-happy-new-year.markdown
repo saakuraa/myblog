@@ -33,7 +33,7 @@ tags:
 
 ---
 也就是差不多一周之前，开始折腾这个主页，很开心能及时的折腾玩，
->blog like a hacker!
+>blogging like a hacker!
 
 博客名字的意思是
 >I wanna it to be with you, when nobody else is;-)
