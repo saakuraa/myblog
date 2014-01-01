@@ -1,5 +1,5 @@
 ---
-title: more about
+title: More About
 layout: post
 guid: urn:uuid:cc0754a2-a429-4af3-86ff-a749a743a616
 date: 2013-12-29 22:12:19 <!---0600-->
