@@ -1,10 +1,13 @@
 ---
-title: one-pic
+title: 滴水湖日落
 layout: post
 guid: urn:uuid:87e6e42a-4c06-4069-8fe2-831239a1092b
 date: 2014-01-05 03:20:34
 tags:
-  - photo
+  - myPhoto
 ---
 
-![random picture](/assets/img/IMG_0193.jpg)
+![random picture](/assets/img/IMG_0193.jpg)  
+琢磨着该放张照片试试效果；）一翻就翻到这张，貌似暑假做手术前一天和我妈在医院附近逛的时候拍的= =
+
+正文就是。。我总感觉这个中文标题的字体很别扭= =嗯改天要换一个。。
