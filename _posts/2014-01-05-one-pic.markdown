@@ -1,0 +1,10 @@
+---
+title: one-pic
+layout: post
+guid: urn:uuid:87e6e42a-4c06-4069-8fe2-831239a1092b
+date: 2014-01-05 03:20:34
+tags:
+  - photo
+---
+
+![random picture](/assets/img/IMG_0193.jpg)
