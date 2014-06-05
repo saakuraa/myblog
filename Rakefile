@@ -1,9 +1,9 @@
 task :default => :generate
 
 desc 'Create new post with rake "post[post-name]"'
-task :post, [:title] do |t, args|
+task :post, [:title, :tags] do |t, args|
   if args.title then
-    new_post(args.title)
+    new_post(args.title,args.tags)
   else
     puts 'rake "post[post-name]"'
   end
@@ -40,7 +40,7 @@ task :clean do
   `rm -rf _site`
 end
 
-def new_post(title)
+def new_post(title,tags)
   time = Time.now
   mydate = time.strftime("%Y-%m-%d %H:%M:%S")
   filename = "_posts/" + time.strftime("%Y-%m-%d-") + title + '.markdown'
@@ -56,8 +56,8 @@ title: #{title}
 layout: post
 guid: urn:uuid:#{uuid}
 date: #{mydate}
-tags:
-  - 
+tags: 
+  - #{tags} 
 ---
 
 
