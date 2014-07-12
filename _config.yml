@@ -6,7 +6,7 @@ url: http://wenjie-luo.com
 # timezone: Asia/Shanghai
 markdown: redcarpet
 # pygments: true
-highlighter: null
+highlighter: rough
 # permalink: /:year/:month/:day/:title.html
 # logo: /assets/images/profile.png
 paginate: 4
