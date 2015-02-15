@@ -2,7 +2,6 @@
 layout: page
 ---
 
-
 ####About me:
 
 	I'm not going to tell you who I am..  
